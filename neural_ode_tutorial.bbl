@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen et~al.(2018)Chen, Rubanova, Bettencourt, and
+  Duvenaud]{chen2018neural}
+Ricky T.~Q. Chen, Yulia Rubanova, Jesse Bettencourt, and David~K. Duvenaud.
+\newblock Neural ordinary differential equations.
+\newblock In S.~Bengio, H.~Wallach, H.~Larochelle, K.~Grauman, N.~Cesa-Bianchi,
+  and R.~Garnett, editors, \emph{Advances in Neural Information Processing
+  Systems}, volume~31, pages 6571--6583. Curran Associates, Inc., 2018.
+
+\bibitem[Dupont et~al.(2019)Dupont, Doucet, and Teh]{dupont2019augmented}
+Emilien Dupont, Arnaud Doucet, and Yee~Whye Teh.
+\newblock Augmented neural {ODE}s.
+\newblock In H.~Wallach, H.~Larochelle, A.~Beygelzimer, F.~d'Alch\'{e} Buc,
+  E.~Fox, and R.~Garnett, editors, \emph{Advances in Neural Information
+  Processing Systems}, volume~32, pages 3140--3150. Curran Associates, Inc.,
+  2019.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 770--778, 2016.
+\newblock \doi{10.1109/CVPR.2016.90}.
+
+\bibitem[Pontryagin et~al.(1962)Pontryagin, Boltyanskii, Gamkrelidze, and
+  Mishchenko]{pontryagin1962mathematical}
+Lev~Semenovich Pontryagin, Vladimir~Grigor'evich Boltyanskii,
+  Revaz~Valerianovich Gamkrelidze, and Evgenii~Frolovich Mishchenko.
+\newblock \emph{The Mathematical Theory of Optimal Processes}.
+\newblock Interscience Publishers, New York, 1962.
+
+\end{thebibliography}
